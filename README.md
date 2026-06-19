@@ -2,7 +2,7 @@
 
 <!-- Typing animation tagline -->
 <a href="https://github.com/Prithvi-Aithal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Prithvi+%F0%9F%91%8B;Systems+%2B+AI+%2B+Full-Stack+Engineer;Building+OS+internals+in+C;Training+ML+models+that+actually+ship;Always+down+to+build+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Prithvi+%F0%9F%91%8B;Systems+%2B+AI+%2B+Full-Stack+Engineer;Training+ML+models+that+actually+ship;Always+down+to+build+something+new" alt="Typing SVG" />
 </a>
 
 </div>
@@ -74,6 +74,11 @@
   </a>
   <a href="https://github.com/Prithvi-Aithal/study-assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prithvi-Aithal&repo=study-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Prithvi-Aithal/mini-compiler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prithvi-Aithal&repo=mini-compiler&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
