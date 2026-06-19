@@ -20,12 +20,12 @@
 
 ### 🧭 About Me
 
-- 🎓 Engineering student, building things that sit somewhere between **Operating Systems**, **AI/ML**, and **Web Development**
-- 🛠️ Recently shipped OS internals in C, a Git-style VCS from scratch, a RAG-based study assistant and a Mini Compiler
-- 🧠 Interested in how things work under the hood — kernels, compilers, interpreters, and the models running on top of them
-- 🚀 Currently exploring applied ML and full-stack product builds
-- 💬 Spend most of my time around OS, compilers, and AI/ML
-- 📍 Based in Bengaluru, India
+- 🎓 Engineering student passionate about Systems Programming, AI/ML, and Full-Stack Development
+- 🛠️ Built projects including a Git-inspired Version Control System, OS Linux Container Runtime, a RAG-powered Study Assistant, and a Mini Compiler
+- 🧠 Interested in kernels, compilers, interpreters, and the systems that power modern AI
+- 🚀 Exploring applied Machine Learning and scalable product development
+- 💻 Mostly working with C, Python, JavaScript, and the Linux ecosystem
+- 📍 Bengaluru, India
 
 ---
 
@@ -40,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prithvi-Aithal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prithvi-Aithal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-Aithal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
@@ -80,11 +80,8 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/prithvi-aithal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
