@@ -21,7 +21,7 @@
 ### 🧭 About Me
 
 - 🎓 Engineering student, building things that sit somewhere between **Operating Systems**, **AI/ML**, and **Web Development**
-- 🛠️ Recently shipped OS internals in C, a Git-style VCS from scratch, a RAG-based study assistant and a mini compiler
+- 🛠️ Recently shipped OS internals in C, a Git-style VCS from scratch, a RAG-based study assistant and a Mini Compiler
 - 🧠 Interested in how things work under the hood — kernels, compilers, interpreters, and the models running on top of them
 - 🚀 Currently exploring applied ML and full-stack product builds
 - 💬 Spend most of my time around OS, compilers, and AI/ML
