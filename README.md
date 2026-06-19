@@ -21,7 +21,7 @@
 ### 🧭 About Me
 
 - 🎓 Engineering student passionate about Systems Programming, AI/ML, and Full-Stack Development
-- 🛠️ Built projects including a Git-inspired Version Control System, OS Linux Container Runtime, a RAG-powered Study Assistant, and a Mini Compiler
+- 🛠️ Built projects including a Git-inspired Version Control System from scratch, OS Linux Container Runtime, a RAG-powered Study Assistant, and a Mini Compiler
 - 🧠 Interested in kernels, compilers, interpreters, and the systems that power modern AI
 - 🚀 Exploring applied Machine Learning and scalable product development
 - 💻 Mostly working with C, Python, JavaScript, and the Linux ecosystem
@@ -64,8 +64,8 @@
   <a href="https://github.com/Prithvi-Aithal/Jarvis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prithvi-Aithal&repo=Jarvis&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/Prithvi-Aithal/OS-Jackfruit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prithvi-Aithal&repo=OS-Jackfruit&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/Prithvi-Aithal/Linux-Container-Runtime">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prithvi-Aithal&repo=Linux-Container-Runtime&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 <p align="center">
