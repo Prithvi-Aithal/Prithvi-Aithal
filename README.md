@@ -186,6 +186,19 @@ A mini compiler built from scratch in pure Python, implementing the full pipelin
 </td>
 <td width="50%" valign="top">
 
+<div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
+
+#### 🤖 Phi-3 OS Fine-Tune
+*Teaching a 3.8B model the OS syllabus, one LoRA adapter at a time.*
+
+Fine-tuned Microsoft Phi-3 Mini (3.8B) on a custom Operating Systems Q&A dataset using LoRA + 4-bit quantization (QLoRA) — only ~0.26% of parameters trained.
+
+`Python` `LLM` `LoRA` `Fine-Tuning`
+
+🔗 [View Repo](https://github.com/Prithvi-Aithal/phi3-os-finetune) · [🤗 Model](https://huggingface.co/Prithvi-Aithal/phi3-mini-os-finetuned)
+
+</div>
+
 </td>
 </tr>
 </table>
