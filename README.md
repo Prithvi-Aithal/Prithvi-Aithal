@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Prithvi-Aithal">
-    <img src="https://komarev.com/ghpvc/?username=Prithvi-Aithal&label=Profile%20Views&color=22D3EE&style=flat" alt="Profile views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Prithvi-Aithal.Prithvi-Aithal&left_text=Profile%20Views" alt="Profile views" />
   </a>
   <a href="https://github.com/Prithvi-Aithal?tab=followers">
     <img src="https://img.shields.io/github/followers/Prithvi-Aithal?label=Followers&style=flat&color=22D3EE&cacheSeconds=3600" alt="Followers" />
