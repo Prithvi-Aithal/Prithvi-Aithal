@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=Prithvi-Aithal&label=Profile%20Views&color=22D3EE&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/Prithvi-Aithal?tab=followers">
-    <img src="https://img.shields.io/github/followers/Prithvi-Aithal?label=Followers&style=flat&color=22D3EE" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Prithvi-Aithal?label=Followers&style=flat&color=22D3EE&cacheSeconds=3600" alt="Followers" />
   </a>
 </p>
 
@@ -172,14 +172,14 @@ A RAG-based chatbot that lets you upload any PDF — lecture notes, textbook cha
 
 <div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
 
-#### ⚙️ Mini Compiler
-*From source code to machine instructions, by hand.*
+#### 🎬 CineSense
+*A hybrid SQL + vector movie recommender.*
 
-A mini compiler built from scratch in pure Python, implementing the full pipeline — lexer → parser (recursive-descent AST) → semantic analyzer → tree-walk interpreter. Supports variables, arithmetic, and more.
+A full-stack movie recommender built with Next.js and PostgreSQL + pgvector — keyword and "meaning" search over embeddings, role-based access control enforced at the database level with row-level security, and audit triggers.
 
-`Python` `Compilers`
+`TypeScript` `PostgreSQL` `pgvector`
 
-🔗 [View Repo](https://github.com/Prithvi-Aithal/mini-compiler)
+🔗 [View Repo](https://github.com/Prithvi-Aithal/cinesense)
 
 </div>
 
