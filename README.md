@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prithvi-Aithal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=22D3EE&title_color=22D3EE&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-Aithal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prithvi-Aithal&show_icons=true&hide_rank=true&hide=stars&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=22D3EE&title_color=22D3EE&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-Aithal&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9" />
 </p>
 
 <p align="center">
