@@ -23,11 +23,11 @@
 
 ### 🧭 About Me
 
-- 🎓 Engineering student passionate about Systems Programming, AI/ML, and Full-Stack Development
-- 🛠️ Built projects including a Git-inspired Version Control System from scratch, OS Linux Container Runtime, a RAG-powered Study Assistant, and a Mini Compiler
+- 🎓 B.Tech Computer Science student at PES University, passionate about Systems Programming, AI/ML, and Full-Stack Development
+- 🛠️ Built a Linux container runtime with a kernel memory monitor, a Git-style version control system, a hybrid SQL + vector movie recommender, a QLoRA fine-tuned LLM, a RAG study assistant, and a mini compiler
 - 🧠 Interested in kernels, compilers, interpreters, and the systems that power modern AI
 - 🚀 Exploring applied Machine Learning and scalable product development
-- 💻 Mostly working with C, Python, JavaScript, and the Linux ecosystem
+- 💻 Mostly working with C, Python, TypeScript, and the Linux ecosystem
 - 📍 Bengaluru, India
 
 ---
@@ -52,6 +52,7 @@
 **🧠 AI / ML**
 
 <img src="https://img.shields.io/badge/PyTorch-0E3A45?style=for-the-badge&logo=pytorch&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0E3A45?style=for-the-badge&logo=huggingface&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/TensorFlow-0E3A45?style=for-the-badge&logo=tensorflow&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/scikit--learn-0E3A45?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/OpenCV-0E3A45?style=for-the-badge&logo=opencv&logoColor=22D3EE" />
@@ -64,7 +65,10 @@
 **🌐 Web & Tools**
 
 <img src="https://img.shields.io/badge/React-0E3A45?style=for-the-badge&logo=react&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Next.js-0E3A45?style=for-the-badge&logo=nextdotjs&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Flask-0E3A45?style=for-the-badge&logo=flask&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/Node.js-0E3A45?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PostgreSQL-0E3A45?style=for-the-badge&logo=postgresql&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/Linux-0E3A45?style=for-the-badge&logo=linux&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/Git-0E3A45?style=for-the-badge&logo=git&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/Docker-0E3A45?style=for-the-badge&logo=docker&logoColor=22D3EE" />
@@ -104,14 +108,14 @@
 
 <div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
 
-#### 🧠 Jarvis
-*Your screen-time, decoded by machine learning.*
+#### 🎬 CineSense
+*A hybrid SQL + vector movie recommender.*
 
-An AI-powered digital wellness platform that monitors user activity, analyzes screen-time and behavior patterns, and predicts digital fatigue or stress levels using machine learning.
+A full-stack movie recommender built with Next.js and PostgreSQL + pgvector: keyword and "meaning" search over embeddings, role-based access control enforced inside the database with row-level security, stored procedures and audit triggers.
 
-`TypeScript` `ML` `Wellness Tech`
+`TypeScript` `PostgreSQL` `pgvector`
 
-🔗 [View Repo](https://github.com/Prithvi-Aithal/Jarvis)
+🔗 [View Repo](https://github.com/Prithvi-Aithal/cinesense)
 
 </div>
 
@@ -123,7 +127,7 @@ An AI-powered digital wellness platform that monitors user activity, analyzes sc
 #### 🧱 Linux-Container-Runtime
 *A container runtime built from raw syscalls up.*
 
-A multi-container runtime built in C — Linux namespaces, a kernel module for memory enforcement, a producer-consumer logging pipeline, and a UNIX socket CLI. Built as an academic OS project.
+A multi-container runtime in C: Linux namespaces, a kernel module that enforces memory limits, a producer-consumer logging pipeline, and a UNIX socket CLI. Built as an academic OS project.
 
 `C` `Linux` `Kernel`
 
@@ -138,10 +142,44 @@ A multi-container runtime built in C — Linux namespaces, a kernel module for m
 
 <div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
 
-#### 🌳 PES1UG24CS909 — pes-vcs
-*Version control, demystified — one commit at a time.*
+#### 🤖 Phi-3 OS Fine-Tune
+*Teaching a 3.8B model the OS syllabus, one LoRA adapter at a time.*
 
-A Git-inspired version control system built from scratch in C — content-addressable object store, staging area, tree serialization, and commit history with SHA-256 integrity. Academic OS project.
+Fine-tuned Microsoft Phi-3 Mini (3.8B) on a custom Operating Systems Q&A dataset using LoRA + 4-bit quantization (QLoRA), training only ~0.23% of the parameters on a free Colab T4.
+
+`Python` `LLM` `LoRA` `Fine-Tuning`
+
+🔗 [View Repo](https://github.com/Prithvi-Aithal/phi3-os-finetune) · [🤗 Model](https://huggingface.co/Prithvi-Aithal/phi3-mini-os-finetuned)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
+
+#### 🧠 Jarvis
+*Your screen-time, decoded by machine learning.*
+
+An AI-powered digital wellness platform built at HealthHack 4.0: PC and Android activity trackers, a Decision Tree stress classifier, a 0–100 wellness score and a live React dashboard.
+
+`TypeScript` `Flask` `ML` `Wellness Tech`
+
+🔗 [View Repo](https://github.com/Prithvi-Aithal/Jarvis)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
+
+#### 🌳 PES-VCS
+*Version control, demystified, one commit at a time.*
+
+A Git-inspired version control system in C: SHA-256 content-addressable object store with atomic writes and integrity checks, staging area, recursive trees and commit history. Academic OS project.
 
 `C` `Systems` `VCS`
 
@@ -154,14 +192,14 @@ A Git-inspired version control system built from scratch in C — content-addres
 
 <div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
 
-#### 📚 Study Assistant
-*Upload a PDF, ask it anything.*
+#### 🧩 Mini Compiler
+*From source text to execution, no libraries.*
 
-A RAG-based chatbot that lets you upload any PDF — lecture notes, textbook chapters, research papers — and ask questions about it in natural language.
+A compiler pipeline for a small language in pure Python: hand-written lexer, recursive-descent parser, semantic checks and a tree-walk interpreter, with a REPL and a debug mode that prints tokens and the AST.
 
-`Python` `RAG` `LLM`
+`Python` `Compilers` `Interpreters`
 
-🔗 [View Repo](https://github.com/Prithvi-Aithal/study-assistant)
+🔗 [View Repo](https://github.com/Prithvi-Aithal/mini-compiler)
 
 </div>
 
@@ -172,14 +210,14 @@ A RAG-based chatbot that lets you upload any PDF — lecture notes, textbook cha
 
 <div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
 
-#### 🎬 CineSense
-*A hybrid SQL + vector movie recommender.*
+#### 📚 Study Assistant
+*Upload a PDF, ask it anything.*
 
-A full-stack movie recommender built with Next.js and PostgreSQL + pgvector — keyword and "meaning" search over embeddings, role-based access control enforced at the database level with row-level security, and audit triggers.
+A RAG chatbot that answers questions about any uploaded PDF (lecture notes, textbook chapters, research papers) and cites the pages its answers come from.
 
-`TypeScript` `PostgreSQL` `pgvector`
+`Python` `RAG` `LLM`
 
-🔗 [View Repo](https://github.com/Prithvi-Aithal/cinesense)
+🔗 [View Repo](https://github.com/Prithvi-Aithal/study-assistant) · 🌐 [Live Demo](https://prithvi-aithal-study-assistant.streamlit.app)
 
 </div>
 
@@ -188,14 +226,12 @@ A full-stack movie recommender built with Next.js and PostgreSQL + pgvector — 
 
 <div style="border:1px solid #22D3EE; border-radius:10px; padding:16px; background:#0D1117;">
 
-#### 🤖 Phi-3 OS Fine-Tune
-*Teaching a 3.8B model the OS syllabus, one LoRA adapter at a time.*
+#### 📂 More on GitHub
+*Course labs, experiments and work in progress.*
 
-Fine-tuned Microsoft Phi-3 Mini (3.8B) on a custom Operating Systems Q&A dataset using LoRA + 4-bit quantization (QLoRA) — only ~0.23% of parameters trained.
+Browse all my public repositories, including my Software Engineering lab work.
 
-`Python` `LLM` `LoRA` `Fine-Tuning`
-
-🔗 [View Repo](https://github.com/Prithvi-Aithal/phi3-os-finetune) · [🤗 Model](https://huggingface.co/Prithvi-Aithal/phi3-mini-os-finetuned)
+🔗 [All Repositories](https://github.com/Prithvi-Aithal?tab=repositories)
 
 </div>
 
@@ -208,6 +244,12 @@ Fine-tuned Microsoft Phi-3 Mini (3.8B) on a custom Operating Systems Q&A dataset
 <p align="center">
   <a href="https://linkedin.com/in/prithvi-aithal">
     <img src="https://img.shields.io/badge/LinkedIn-0E3A45?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
+  </a>
+  <a href="https://huggingface.co/Prithvi-Aithal">
+    <img src="https://img.shields.io/badge/Hugging%20Face-0E3A45?style=for-the-badge&logo=huggingface&logoColor=22D3EE" />
+  </a>
+  <a href="mailto:prithvi.aithal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0E3A45?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
   </a>
 </p>
 
