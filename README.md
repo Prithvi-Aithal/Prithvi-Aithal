@@ -191,7 +191,7 @@ A full-stack movie recommender built with Next.js and PostgreSQL + pgvector — 
 #### 🤖 Phi-3 OS Fine-Tune
 *Teaching a 3.8B model the OS syllabus, one LoRA adapter at a time.*
 
-Fine-tuned Microsoft Phi-3 Mini (3.8B) on a custom Operating Systems Q&A dataset using LoRA + 4-bit quantization (QLoRA) — only ~0.26% of parameters trained.
+Fine-tuned Microsoft Phi-3 Mini (3.8B) on a custom Operating Systems Q&A dataset using LoRA + 4-bit quantization (QLoRA) — only ~0.23% of parameters trained.
 
 `Python` `LLM` `LoRA` `Fine-Tuning`
 
